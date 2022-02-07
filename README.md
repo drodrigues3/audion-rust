@@ -1,2 +1,2 @@
 # audion-rust
-Simples Rust player 
+Simple Rust player 
